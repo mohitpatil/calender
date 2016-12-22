@@ -1,0 +1,15 @@
+Steps to make changes and run the project.
+1. You can simply run this project with any browser it doesn't have any other dependencies outside this folder.
+2. Extract the zip file and go to index.html to run the project.
+3. If you want to change the Array or Objects in the array, Just allocate new array of object to
+   the var time in line 4 and delete the line 9 from app.js
+
+
+Steps to Develop Project :
+1. Created one Dummy Array of Objects to start work with.
+2. Created HTML and CSS for Calender in index.html
+3. Detected Collision in the different events.
+4. Detected how many events are colliding with each other and set the count depending
+   on that which i used for selecting width of each event.
+5. write function to create div element depending on the top, Width and height.
+6. Detect which element will be placed in which order(horizontally) if collides with other event.
